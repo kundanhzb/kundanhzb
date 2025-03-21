@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 
 <a href="https://kundanrana.me/portfolio/about.html">https://kundanrana.me/portfolio/about.html </a>
+
+<br>
+<br>
 <div align="center">
   
-# Hi there, 👋
+# Welcome to My Learning Space
 <p align="center">Let's connect and build something amazing! 🌟 </p>
 
 
@@ -28,18 +31,18 @@ Here are some ideas to get you started:
 
 </div>
 
-
+ <br> 
 <div align="center">
-  
-# 👨‍💻 About IIT Madras BS data science
+
+# About IIT Madras BS data science
 
 <p>The IIT Madras BS Degree in Data Science and Applications is a unique online program designed to provide students with a strong foundation in programming, statistics, machine learning, and data-driven decision-making. It is India's first online degree offered by an IIT and is structured to be flexible, allowing students from diverse backgrounds to enroll.</p>
 
 </div>
-
+ <br> 
 <div align="center">
   
-# 👋 Connect With Me
+# Connect With Me
  <img src="https://img.icons8.com/clouds/100/000000/domain.png" width="70" alt="Portfolio"><br>
  <a href="https://kundanrana.me/portfolio/about.html">Click to Visit My Web Page</a><br>
  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" alt="LinkedIn"><br>
