@@ -59,8 +59,6 @@ Here are some ideas to get you started:
 ! Open for collaborations on interesting data projects
 
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundanhzb&show_icons=true&theme=default&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanhzb&layout=compact&theme=default&hide_border=true" /> </p><br>
-
 <p align="center"> <a href="mailto:kundanranahzb@gmail.com"> 
  <img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="70" alt="Email"> </a> 
  <a href="https://kundanrana.me/portfolio/about.html">
