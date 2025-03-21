@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kundan Rana👋
 
 <!--
 **kundanhzb/kundanhzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 ## 👨‍💻 Know More About Me
-
+</div>
 ```diff
 
 + Passionate Data Science student with interest in machine learning, AI, and data science
@@ -67,5 +67,5 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" alt="LinkedIn"> </a> </p>
 
 <hr><p align="center"> <i>Let's connect and build something amazing!</i> 🌟 </p> ```
-</div>
+
 
