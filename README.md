@@ -1,4 +1,4 @@
-## Kundan Rana👋
+## Kundan Rana
 
 <!--
 **kundanhzb/kundanhzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://kundanrana.me/portfolio/about.html">https://kundanrana.me/portfolio/about.html </a>
 <div align="center">
   
-# Hi there, I'm Kundan Rana 👋
+# Hi there, 👋
 <p align="center">Let's connect and build something amazing! 🌟 </p>
 
 
@@ -47,23 +47,6 @@ Here are some ideas to get you started:
 
  </div>
 
-
-## 👨‍💻 Know More About Me
-
-```diff
-
-+ Passionate Data Science student with interest in machine learning, AI, and data science
-+ Currently exploring deep learning applications in computer vision
-+ You can find me on Github
-+<br>
-! Open for collaborations on interesting data projects
-
-
-<p align="center"> <a href="mailto:kundanranahzb@gmail.com"> 
- <img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="70" alt="Email"> </a> 
- <a href="https://kundanrana.me/portfolio/about.html">
- <img src="https://img.icons8.com/clouds/100/000000/domain.png" width="70" alt="Portfolio"> </a> <a href="https://in.linkedin.com/in/kundanrana">
- <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" alt="LinkedIn"> </a> </p>
 
 <hr><p align="center"> <i>Let's connect and build something amazing!</i> 🌟 </p> ```
 
