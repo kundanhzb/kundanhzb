@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <p align="center"> I'm Kundan Rana, a passionate Data Science student at IIT Madras. I am health conscious person. I love exploring the world of AI, machine learning, and data science. My goal is to leverage data-driven solutions to solve real-world problems.</p>
 
 </div>
-<div align="center">
+
 ## 👨‍💻 About IIT Madras BS data science
 
 <p>The IIT Madras BS Degree in Data Science and Applications is a unique online program designed to provide students with a strong foundation in programming, statistics, machine learning, and data-driven decision-making. It is India's first online degree offered by an IIT and is structured to be flexible, allowing students from diverse backgrounds to enroll.</p>
-</div>
 
-<div align="center">
+
+
 ## 👋 Connect With Me
-
+<div align="center">
  <img src="https://img.icons8.com/clouds/100/000000/domain.png" width="70" alt="Portfolio"><br>
  <a href="https://kundanrana.me/portfolio/about.html">Click to Visit My Web Page</a><br>
  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" alt="LinkedIn"><br>
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
  </div>
 
-<div align="center">
+
 ## 👨‍💻 Know More About Me
-</div>
+
 ```diff
 
 + Passionate Data Science student with interest in machine learning, AI, and data science
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 + You can find me on Github
 +<br>
 ! Open for collaborations on interesting data projects
+
 
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundanhzb&show_icons=true&theme=default&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanhzb&layout=compact&theme=default&hide_border=true" /> </p><br>
 
